@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Marka v1.0.3 - bug修复与体验优化",
+  "version": "1.0.5",
+  "notes": "Marka v1.0.5 - 本地文件夹增强",
   "pub_date": "2026-04-07T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbGZPT2xrOTRKWHdoRk5MYlRvMU5UUS8xRXB2UGp5UFhGZkRYVHJsdGh5MUhPdVJtYUtNdEYwYjBRK0JRZ1ZWYzZNVjBJaGNPOTdjVWYrODQ3bHh4eXZFUWtEVUx6SHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTUyMTg2CWZpbGU6TWFya2FfMS4wLjNfeDY0LXNldHVwLmV4ZQp1UFhhbExjdzFUS0s4d0JZL2pzQVpGUmpqeHRtZXJ0MkFBZjZLRFR3UFU3WkRaWm5zTHRZM3k1TXFmUFJkMU1mYnhWbDhYSGtzVnFJaUYxQUVXdnVDUT09Cg==",
-      "url": "https://github.com/cytia/marka-releases/releases/download/v1.0.3/Marka_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbGZPT2xrOTRKWDg4azJXU2tLTWg2NEFOamFwLzhQNEFMWnh2Q2kzZUlFd0RrUC9NY3IzSWxpaElyTVZCdHRyZS9XcGNqU0R2MXpYeGhZYkFSR2IwK0ZyVFBWY0lMMndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTY0Nzk5CWZpbGU6TWFya2FfMS4wLjVfeDY0LXNldHVwLmV4ZQpLR3VMY2MvUEN2c3J3bzg1Q3l2U0tGSm5HYmxVZHZrWmxOWDIybC9zSXA3MEkzS3orN0Q2NWhsNzVQaG5QY3pWdFhwUytaczM5RkJ0L2FMamZ5bE5EUT09Cg==",
+      "url": "https://github.com/cytia/marka-releases/releases/download/v1.0.5/Marka_1.0.5_x64-setup.exe"
     }
   }
 }
