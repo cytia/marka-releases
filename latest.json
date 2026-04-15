@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Marka v1.1.0 - 修复拖动窗口后打字 CodeMirror 崩溃 + IME 候选框位置修复",
-  "pub_date": "2026-04-10T00:00:00Z",
+  "version": "1.1.1",
+  "notes": "Marka v1.1.1",
+  "pub_date": "2026-04-15T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbGZPT2xrOTRKWDQraFFZTmFDT2UwQUtseDhzZWRnVVowemhGQU44bFliRitPQkVtQWk0ZDlUdzBLamZyVEE0cFI0ZGRhYjczM01BSThoVFh1RVMyTlZzcWpsT1ZHT1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODE5OTk0CWZpbGU6TWFya2FfMS4xLjBfeDY0LXNldHVwLmV4ZQowT2hNOHZvaFRoTytnOFdGaWFqQ29kL1RxejVDQkE5eE1OVDZMWGVDR0FHVlBZajA1T2dTREljbS9BMlJOZHczTmxUOXFPRVZKemI0RFhFZjJnbmVDUT09Cg==",
-      "url": "https://github.com/cytia/marka-releases/releases/download/v1.1.0/Marka_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbGZPT2xrOTRKWHpLb1JLR2E2TXhvU3FTVnpkMVVFejBJK1l2dzA3Z0ZTQXlPUElRNjg1RDdSZE5mbks2WkhrUng1bkp2SFhwc3E4bmYzRTcwalVaNFVDdWlQOC96bkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjQ1MDA0CWZpbGU6TWFya2FfMS4xLjFfeDY0LXNldHVwLmV4ZQpiZ0ZiaVhEQzdnT2U4YmlVcFFwWWZ1a2Q0bUczU2dnbThLTnhvQm5mRjdmbVI3amw2d1VHazcrcWRITEpUTTJNNlJzYk5Tck5LUGNsZXBIWEZSUHZEQT09Cg==",
+      "url": "https://github.com/cytia/marka-releases/releases/download/v1.1.1/Marka_1.1.1_x64-setup.exe"
     }
   }
 }
